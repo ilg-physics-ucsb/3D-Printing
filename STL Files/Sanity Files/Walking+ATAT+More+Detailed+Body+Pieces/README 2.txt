@@ -1,0 +1,1 @@
+Walking ATAT More Detailed Body Pieces by ljbeng on Thingiverse: https://www.thingiverse.com/thing:4641541
