@@ -1,0 +1,21 @@
+Lightsaber Birthday Candle Holder
+=================================
+http://www.thingiverse.com/thing:1134172
+
+WARNING: I have no clue if your printing material is food safe!!!!  To be safe think about how you're using it and consider throwing out the part of the cake where the candle holder is.  I would recommend NOT licking the candle holders.
+
+This is intended to be a candle holder for common birthday candles (US sizes).  Just print standard .2mm layer height, no infill, supports or rafts required.  Most of my candles shaved a little bit of the wax off when I shoved them in, a couple were looser.
+
+Check out the thing for more pictures and details http://www.thingiverse.com/thing:1134172
+
+Printing without support the "switch" part of the handle gets a little droop, I just filed that off.  You can also consider painting it if you want, though printing in gray works great.
+
+Check out my Lego Artoo!
+========================
+If you'd like to support my maker habits, please check out my [Lego R2-D2's YouTube at http://youtube.com/myL3G0](http://youtube.com/subscription_center?add_user=myL3G0), and please tweet of facebook a link to his page, every visitor helps!
+
+License
+=======
+This is shared under the Creative Commons - Attribution - Non-Commercial license.
+
+Remixed from my other lightsaber projects, which can be found at http://thingiverse.com/kresty
